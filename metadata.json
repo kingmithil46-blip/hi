@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NovaStack Solutions",
+  "description": "Premium landing page for NovaStack Solutions - A senior web and app development agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
